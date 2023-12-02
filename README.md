@@ -3,7 +3,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="raja.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
+  <img src="My image.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 
