@@ -9,7 +9,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajgopalhota&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=manojnaraharisetti&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/manojnaraharisetti?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/commit-activity/y/manojnaraharisetti/manojnaraharisetti?label=Commits&color=green&style=flat-square" alt="Commits" />
   <img src="https://img.shields.io/github/issues/manojnaraharisetti/manojnaraharisetti?color=red&style=flat-square" alt="Issues" />
